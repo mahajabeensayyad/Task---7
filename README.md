@@ -12,4 +12,6 @@ Use SQL inside Python to pull simple sales info (like total quantity sold, total
 - sales_chart1.png
 - Sales_database.db
 
+ ## 📸 Output Preview
+![image](https://github.com/mahajabeensayyad/Task---7/blob/main/sales_chart1.png)
  
